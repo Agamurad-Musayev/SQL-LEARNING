@@ -1,0 +1,5 @@
+# SQL Syntax Practice.
+SELECT statement basics.
+'''
+SELECT * FROM CUSTOMERS;
+```
